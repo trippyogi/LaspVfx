@@ -559,11 +559,11 @@ MonoBehaviour:
   _deviceID: 
   _channel: 0
   _filterType: 3
-  _autoGain: 1
-  _gain: 6
-  _dynamicRange: 3.33
+  _autoGain: 0
+  _gain: 22.2
+  _dynamicRange: 7.77
   _smoothFall: 1
-  _fallSpeed: 0.8
+  _fallSpeed: 0.39
   _propertyBinders: []
   references:
     version: 1
